@@ -204,7 +204,7 @@ function tieneTresDigitos(num) {
    // Si el número recibido tiene tres dígitos retornar true.
    // Caso contrario, retornar false.
    // Tu código:
-num = num.toString()
+   num = num.toString()
    if (num.length === 3){
       return (true);
    } else {
