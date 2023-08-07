@@ -238,9 +238,9 @@ function continueStatement(num) {
          continue;
       } else {
          suma = suma + 2;
-         array.push(suma)
+         array.push(suma);
       }
-   } return (array)
+   } return (array);
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
